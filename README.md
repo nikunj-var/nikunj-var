@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikunj Varshney
+- 👀 I’m interested in Data Structure & Algorithms, CPP, Java and Python.
+- 🌱 I’m currently learning everything that can enhance my skill set and make me a badass. 
+- 💞️ I’m looking to collaborate on Data Structure & Algroithms and C++ Projects.
+- 📫 Reach out to me on nikunjvar2002@gmail.com
